@@ -32,5 +32,3 @@ A machine learning project for predicting NFL game outcomes using historical tea
 
 ## Contact
 Linkedin: https://linkedin.com/in/brandonong07
-
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
