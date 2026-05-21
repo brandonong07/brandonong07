@@ -7,7 +7,6 @@
 - Options analytics and risk modeling
 - Economic data dashboards and forecasting
 - Building stronger software engineering fundamentals
-- Learning C++ and Quantitative Applications of Python for Finance
 
 ## Featured projects
 
@@ -26,6 +25,7 @@ A machine learning project for predicting NFL game outcomes using historical tea
 ## Technical skills
 
 **Languages:** Python, TypeScript, JavaScript, HTML, CSS  
+**Currently learning:** SQL, C++, quantitative finance in Python
 **Data/ML:** pandas, NumPy, scikit-learn, regression, classification, model evaluation  
 **Tools:** Git, GitHub, React, Vite, Recharts  
 **Interests:** options, trading, risk analytics, macro data, machine learning, portfolio analytics
