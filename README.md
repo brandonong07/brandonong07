@@ -1,5 +1,5 @@
 # Hi, I'm Brandon
-🎲 Statistics (Machine-Learning Path) + Economics @ UC Davis
+-🎲 Statistics (Machine-Learning Path) + Economics @ UC Davis
 
 ## Current focus
 - Quantitative finance and trading systems
