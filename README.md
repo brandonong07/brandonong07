@@ -31,4 +31,4 @@ A machine learning project for predicting NFL game outcomes using historical tea
 **Interests:** options, trading, risk analytics, macro data, machine learning, portfolio analytics
 
 ## Contact
-Linkedin: linkedin.com/in/brandonong07
+Linkedin: https://linkedin.com/in/brandonong07
